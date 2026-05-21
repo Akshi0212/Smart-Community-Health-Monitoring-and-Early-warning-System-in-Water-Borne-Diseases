@@ -1,0 +1,2 @@
+# Smart-Community-Health-Monitoring-and-Early-warning-System-in-Water-Borne-Diseases
+Smart Community Health Monitoring and Early Warning System for Water-Borne Diseases is an AI and IoT-based system that monitors community health and water quality to detect early signs of water-borne diseases. It analyzes health and environmental data, predicts outbreaks and provides alerts for timely prevention and better public health management.
