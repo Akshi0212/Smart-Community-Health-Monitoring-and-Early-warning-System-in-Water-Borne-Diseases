@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "521257878301",
+    "firebase_url": "https://jalraksak-default-rtdb.firebaseio.com",
+    "project_id": "jalraksak",
+    "storage_bucket": "jalraksak.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:521257878301:android:590b66d9566a240ba397f4",
+        "android_client_info": {
+          "package_name": "com.example.jalrakshakapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "521257878301-n9864r1j9elogdda9dvrku1tk0l936bm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGtIeoMB4MnflfHyMMoxvvdaLdCyBKBgo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "521257878301-n9864r1j9elogdda9dvrku1tk0l936bm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
